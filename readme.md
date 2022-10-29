@@ -53,7 +53,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
  <br />
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skillqodedev)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skillqodedev&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
