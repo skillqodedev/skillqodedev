@@ -1,4 +1,4 @@
-### Hi there!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!++I'm+Full-stack+Developer;and+Software%2FSolution+Architect;Over+18%2B+years+of+development+skill;in+IT%2FSoftware+company)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/pongpangdd/">
   <img align="left" alt="Supachai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
