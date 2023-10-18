@@ -1,11 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!++I'm+Full-stack+Developer;and+Software%2FSolution+Architect;Over+18%2B+years+of+development+skill;in+IT%2FSoftware+company)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/pongpangdd/">
-  <img align="left" alt="Supachai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-
-<br />
 
 hi, i'm [Supachai Singthep](https://skillqode.dev/), a passionate self-taught full stack software developer and a freelance full stack from thailand. my experience is over than 18 years in software company. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
